@@ -1,1 +1,0 @@
-web: gunicorn bloggers_corner.wsgi
