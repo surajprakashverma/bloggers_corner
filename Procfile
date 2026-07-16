@@ -1,1 +1,1 @@
-web: gunicorn bloggers_corner.wsgi
+web: gunicorn bloggers_corner.wsgi:application
